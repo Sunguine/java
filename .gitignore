@@ -1,2 +1,4 @@
 .idea/
 com.it.iml
+*.DS_STORE
+bin/
